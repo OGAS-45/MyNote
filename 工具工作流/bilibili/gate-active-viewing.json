@@ -1,0 +1,34 @@
+{
+  "pureRecommend": true,
+  "enableSidebar": true,
+  "hidingTabKeys": ["app-recommend", "pc-recommend", "keep-follow-only", "hot", "live", "space-upload", "liked"],
+  "customTabKeysOrder": ["fav", "watchlater", "dynamic-feed", "history", "app-recommend", "pc-recommend", "keep-follow-only", "hot", "live", "space-upload", "liked"],
+  "dynamicFeed": {
+    "showLive": false,
+    "followGroup": {"enabled": true}
+  },
+  "watchlater": {
+    "continuePlay": false,
+    "itemsOrder": "add-time-asc",
+    "enableTabbarQuickSwitch": true
+  },
+  "videoCard": {
+    "imgPreview": {
+      "autoPreviewWhenHover": false,
+      "autoPreviewWhenKeyboardSelect": false
+    }
+  },
+  "filter": {
+    "enabled": true,
+    "minDuration": {"enabled": false},
+    "minPlayCount": {"enabled": false},
+    "minDanmakuCount": {"enabled": false},
+    "exemptForFollowed": {"video": true, "picture": true},
+    "byTitle": {
+      "enabled": true,
+      "keywords": ["领券下单", "直播间抢购", "限时秒杀", "点击小黄车"]
+    }
+  },
+  "style": {"pureRecommend": {"hideTopChannel": true}},
+  "backupSettingsToArticleDraft": false
+}
