@@ -1,0 +1,1039 @@
+{
+  "date": "2026-11-08",
+  "source_refs": {
+    "LLM-Notes-Chuan": {
+      "repo": "LLM-Notes-Chuan",
+      "head_ref": "refs/heads/main",
+      "refs": [
+        "refs/heads/main 59bae5fe06444dc95dd63c4b66ca2f04629cb34f"
+      ]
+    },
+    "Chuan-LLM-Study-Community": {
+      "repo": "Chuan-LLM-Study-Community",
+      "head_ref": "refs/heads/main",
+      "refs": [
+        "refs/heads/main 5e55af3a962e7f587ae83800f314b9ee4598b6a9"
+      ]
+    },
+    "test": {
+      "repo": "test",
+      "head_ref": "refs/heads/main",
+      "refs": [
+        "refs/heads/main 812042df2ad10bc2228d54719d0dd64e2b13e6b8"
+      ]
+    }
+  },
+  "files": [
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": ".gitignore",
+      "target_path": "学习资料/LLM-Notes-Chuan/.gitignore",
+      "sha256": "8cdc8268bf9ea21d73d5df18cac69a3e5fb3c90aaac45a94c939f9a026a4e99a"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/.DS_Store",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/.DS_Store",
+      "sha256": "b9d37cb082a6f9893ade2478ccc7695a08bc6d2f9d92a616f22648de3773b1f5"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/DeepResearch/Deepreaserch.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/DeepResearch/Deepreaserch.md",
+      "sha256": "86bd998401d999bcfb7404f5b6e5f1c6abc6c77b270f6cf56d7a8b471e89d91b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/DeepResearch/截屏2025-07-22 22.02.32.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/DeepResearch/截屏2025-07-22 22.02.32.png",
+      "sha256": "f999031cef3a11e64404294e07020730756822893ef70d6278f912d7915e54a2"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/mcp/Dify课程笔记章节08 - MCP实战.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/mcp/Dify课程笔记章节08 - MCP实战.md",
+      "sha256": "a8e1cbcfb3deafe6cfb4e5c331d89b27bb1269b967a57e2d421701bb8510eae0"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/mcp/太有用了.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/mcp/太有用了.png",
+      "sha256": "ecf9fe82edbece44310543cc012b52fc6fe520bd1c0e4635f6a4de0910c32e81"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/mcp/实践，真的好用.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/mcp/实践，真的好用.png",
+      "sha256": "602a4ae1b70062eb538e8555f27cc05f976b7167479ed179aadbd8c68907e30f"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/mcp/成功授权.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/mcp/成功授权.png",
+      "sha256": "f579dd0cd095882b33f575a7ecb1cbec0855079e9be4fad07f16d4483e0c6823"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/mcp/授权ing.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/mcp/授权ing.png",
+      "sha256": "cbcb073424455f69d9552774d6822450d380ad117c3bbd9bc2ebdc3cc6ccbfd1"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/sql/Dify课程笔记章节08 - dify联通mysql 和 echart.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/sql/Dify课程笔记章节08 - dify联通mysql 和 echart.md",
+      "sha256": "2f42367fe07c6e96cac63c567aa4818ed8df09471b86a44ee917edba674ce170"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/sql/Snipaste_2025-07-23_21-36-57.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/sql/Snipaste_2025-07-23_21-36-57.png",
+      "sha256": "27cd9bcc714b0d7e89042ad5b39721b7e3b549ed07ac4ae892eb3c49ec679813"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/sql/Snipaste_2025-07-23_21-39-54.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/sql/Snipaste_2025-07-23_21-39-54.png",
+      "sha256": "96fcf179bf0c4cc5832ff39ba224b4c79ceb8decbe0ad79710812cc8dfd316c8"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/sql/工作流解析笔记.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/sql/工作流解析笔记.png",
+      "sha256": "2eea320ef205291ae7c6a87cfa19172cd6f7258f231dc25bc23ee378067058bf"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节01/.DS_Store",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节01/.DS_Store",
+      "sha256": "a3d9f3986c6d5b6ab511742729f4558a9d825cdeff67101ac4dcf80f2a58c610"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节01/完成Task01登陆.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节01/完成Task01登陆.png",
+      "sha256": "d64dd181bdcd77c3515c6a0ee276283e0b996084a7ae89f512c62e85314e5d2f"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节01/第一次部署失败.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节01/第一次部署失败.png",
+      "sha256": "1c0016140c3cee503d8200538ec022f9d3fd5943ddee025d929a35adfb8adc30"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节01/部署docker.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节01/部署docker.png",
+      "sha256": "14af1aa307b9ceef581e43c9de57b7a151c799e3473d72800d79fe9dbb6cb45b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节02/.DS_Store",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节02/.DS_Store",
+      "sha256": "410ddbf154401df7c341ed0c8da2e1faee17daebeeb470cc7bed1024a2261811"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节02/Task02初次尝试.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节02/Task02初次尝试.png",
+      "sha256": "139bd28f7eafddeac278be94fdc7533c2c9fce7f3a89f7856cf1b8d3934ff628"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节02/Task02完成.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节02/Task02完成.png",
+      "sha256": "2d90022f734fc4854d4b3388f9a4d7b7920e0cb1802bf9fdb7e0a15c19fad803"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节02/针对Task02在群里发的教程/.DS_Store",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节02/针对Task02在群里发的教程/.DS_Store",
+      "sha256": "f942277399363cce13f04c8b3eb752964b7aa3dfabac24c19f9d86ba6d6232a4"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.17.11.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.17.11.png",
+      "sha256": "4799a8ac0bceabde35b691c7ff5987702ecca24c2c5a9c72ce80a4c7aa5716ad"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.24.37.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.24.37.png",
+      "sha256": "d1d0ca368270fbdb1278d0414bd328ab775251bc487f2114700842c40f978f6e"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.30.26.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.30.26.png",
+      "sha256": "edda543f8f572422b54a5f0ec0935b12a66188a1e30a20af8b8104a37d231a1c"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.31.13.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.31.13.png",
+      "sha256": "31b1d0ec6c9ee28b4c4c2bc8fb56b16afea1d6b5b8f3dc6b19c674d6be1faccc"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.31.43.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节02/针对Task02在群里发的教程/截屏2025-07-15 23.31.43.png",
+      "sha256": "c1e9b6f851092ac19e6ee23b1f3b7df2252202c01449ea51c2014ddabd15c3b5"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节03/.DS_Store",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节03/.DS_Store",
+      "sha256": "ab043a18f81dbeb321bcd063f0e5d5a44f5a2f67ef3df92cf759004b3e2add16"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节03/哄哄模拟器Task03.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节03/哄哄模拟器Task03.png",
+      "sha256": "ccbcf0af38cfe89c4205b4e65f2df3b628d986124312fb75e6ae4a40b357977e"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节04/.DS_Store",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节04/.DS_Store",
+      "sha256": "72f4cc4d48c6af8942f57b9bb4927349e589998266b539de641b214cdfdfb3cd"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节04/Task04召回测试.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节04/Task04召回测试.png",
+      "sha256": "1c55e9a3d647489f4dd751945525d71b56152146af2a22e56720972fa059f5d2"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节04/Task04向量化.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节04/Task04向量化.png",
+      "sha256": "d1b22e4ddce8e1b0f0dc1bb2d4696b353c324479dd04f47bcf5685dd2b15fc60"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节04/Task04完成搭建测试.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节04/Task04完成搭建测试.png",
+      "sha256": "9a4468542425766b051a91c8b216cab8346338fb773b2c034b99dc2ea29e3dc3"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节05/创建了密钥.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节05/创建了密钥.png",
+      "sha256": "fc2ac60c32fdb7da6508526b1d5e6130479e060e97d93b19bf424da211f95022"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节05/加入Arifacts的Html渲染插件.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节05/加入Arifacts的Html渲染插件.png",
+      "sha256": "8f4e76c768b84c3630a17ea86a9ffeac1589bcb38ccaf39a1f1115d9c4c821c0"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节05/封面.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节05/封面.png",
+      "sha256": "eff0e15f9d2dd86c8562fe3a7329d402163e302ee5c1c9dd7ed4b398e2a77df6"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节05/最后工作流效果.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节05/最后工作流效果.png",
+      "sha256": "069c7899b337b2c0b56fd1cb65f4f9dcb119ae3bfd889374523861a3d60b1e9a"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节05/生成双城记卡片.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节05/生成双城记卡片.png",
+      "sha256": "09266d92f4e180686af17a437d769234d2bed07644f5fce2ee441a823ba3398a"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节05/生成百年孤独卡片.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节05/生成百年孤独卡片.png",
+      "sha256": "74d61bf0ff3868f3db81d1e2cf7b9e8026d79b807d7e0491c41b959432959ba1"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节06/面试专家效果.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节06/面试专家效果.png",
+      "sha256": "c5e3a52fc988a47f9a87b890a495349cae5e93a50795687af50821a36c71b0cc"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节07/12306 MCP查询测试.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节07/12306 MCP查询测试.png",
+      "sha256": "59ee0419ed7a5fecddfb9a908c5f2abf8f4bea6115afed274acbe335dc9e0b7d"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节07/Dify课程笔记章节07.1 - 子豪兄的MCP综合应用理论.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节07/Dify课程笔记章节07.1 - 子豪兄的MCP综合应用理论.md",
+      "sha256": "597ff4eae3c0a3e84df0cee1375d1eb989db1c907415fbafae0ad1231963e7bc"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节07/Dify课程笔记章节07.2 - dify MCP插件介绍.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节07/Dify课程笔记章节07.2 - dify MCP插件介绍.md",
+      "sha256": "82896f00d3ea5e67f6324f747eb5028590e4ad941a49da493aac4d161441a98c"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节08/Dify课程笔记章节08 - TTS.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节08/Dify课程笔记章节08 - TTS.md",
+      "sha256": "1a4f3697f789d6c4e55affea13754746d65cca0c9fab1455ef249d40de48a48b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节08/完成.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节08/完成.png",
+      "sha256": "f3d96f8094ddc0939785dcd7a8b3adc546f110b9f574ec67c82881e83dc76ceb"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节09/工作流全貌.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节09/工作流全貌.png",
+      "sha256": "72e165d758c0d8d0e2863d361a9cb93b72051b007f4eacc6b8b56d1566a39467"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Dify/章节09/时间不够了，就完成了一个初始的很简易的一个.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Dify/章节09/时间不够了，就完成了一个初始的很简易的一个.png",
+      "sha256": "bfecf2fdb9481b33a839511193a1e6a059b20bfbb51fcf60ef5e644eb3f11d2e"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task01/HappyLLm - Task01.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task01/HappyLLm - Task01.md",
+      "sha256": "5e66b4564ed00f9f47489b00cb24c51481e4c88f7b4873ac5c34495693c43583"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task02/1.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task02/1.png",
+      "sha256": "1f05ff69635f353e0e3dfd2e17415c4ca14c4d2a63d0972905e45cad1ae150cd"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task02/2.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task02/2.png",
+      "sha256": "e4b139051878edf49f36382f9f5f803eb3abbb1e9823e3068bcd81f5dffd63f7"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task02/3.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task02/3.png",
+      "sha256": "2fb032fd8a2a55ee9c6185259940b7495fcc6f8149b80ded78f76f8de308044d"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task02/4.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task02/4.png",
+      "sha256": "072cd093d328132a6a3dc558774ce1e74d0119b1d77570941fad6fef156bc98e"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task03/HappyLLM - 基础知识01 神经网络的基本概念 函数 神经网络 前向反向传播 经典问题.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task03/HappyLLM - 基础知识01 神经网络的基本概念 函数 神经网络 前向反向传播 经典问题.md",
+      "sha256": "ebcded8c15aff930b692dde71c9eae8961cbb5dc05ef408324687f50212fd51f"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task03/HappyLLM - 基础知识具备目录.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task03/HappyLLM - 基础知识具备目录.md",
+      "sha256": "ac775a01dc018a33fe1fe3e4b6c00c5a043420019f6f14623144ea93303af5f3"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task03/HappyLLm - Task01的副本.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task03/HappyLLm - Task01的副本.md",
+      "sha256": "5e66b4564ed00f9f47489b00cb24c51481e4c88f7b4873ac5c34495693c43583"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task03/HappyLLm课程笔记章节02.1 - 注意力机制.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task03/HappyLLm课程笔记章节02.1 - 注意力机制.md",
+      "sha256": "598bbfb4b16dbdd4d48f0f4de77f5d7945a8dfd606241d07f767f265c537e6c0"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task03/Happyllm - Task01.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task03/Happyllm - Task01.md",
+      "sha256": "5e66b4564ed00f9f47489b00cb24c51481e4c88f7b4873ac5c34495693c43583"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task04/HappyLLM - 基础知识01 神经网络的基本概念 函数 神经网络 前向反向传播 经典问题.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task04/HappyLLM - 基础知识01 神经网络的基本概念 函数 神经网络 前向反向传播 经典问题.md",
+      "sha256": "ebcded8c15aff930b692dde71c9eae8961cbb5dc05ef408324687f50212fd51f"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task04/HappyLLM - 基础知识具备目录.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task04/HappyLLM - 基础知识具备目录.md",
+      "sha256": "ac775a01dc018a33fe1fe3e4b6c00c5a043420019f6f14623144ea93303af5f3"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task04/HappyLLm - Task01的副本.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task04/HappyLLm - Task01的副本.md",
+      "sha256": "5e66b4564ed00f9f47489b00cb24c51481e4c88f7b4873ac5c34495693c43583"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task04/HappyLLm课程笔记章节02.1 - 注意力机制.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task04/HappyLLm课程笔记章节02.1 - 注意力机制.md",
+      "sha256": "598bbfb4b16dbdd4d48f0f4de77f5d7945a8dfd606241d07f767f265c537e6c0"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task04/Happyllm - Task01.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task04/Happyllm - Task01.md",
+      "sha256": "5e66b4564ed00f9f47489b00cb24c51481e4c88f7b4873ac5c34495693c43583"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task05/HappyLLM - 基础知识01 神经网络的基本概念 函数 神经网络 前向反向传播 经典问题.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task05/HappyLLM - 基础知识01 神经网络的基本概念 函数 神经网络 前向反向传播 经典问题.md",
+      "sha256": "ebcded8c15aff930b692dde71c9eae8961cbb5dc05ef408324687f50212fd51f"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task05/HappyLLM - 基础知识具备目录.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task05/HappyLLM - 基础知识具备目录.md",
+      "sha256": "ac775a01dc018a33fe1fe3e4b6c00c5a043420019f6f14623144ea93303af5f3"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task05/HappyLLm - Task01的副本.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task05/HappyLLm - Task01的副本.md",
+      "sha256": "5e66b4564ed00f9f47489b00cb24c51481e4c88f7b4873ac5c34495693c43583"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task05/HappyLLm课程笔记章节02.1 - 注意力机制.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task05/HappyLLm课程笔记章节02.1 - 注意力机制.md",
+      "sha256": "c6507db2dd91e53df67346ac6320b960a17acb987cba11a0dfe1a0e3d88b70e4"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task05/HappyLLm课程笔记章节03.1.0 - 预训练语言模型.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task05/HappyLLm课程笔记章节03.1.0 - 预训练语言模型.md",
+      "sha256": "eed7416308c280fef1341665892f6a0b48bf933f670ff1178a44ff06410c9a97"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task05/HappyLLm课程笔记章节03.1.1 - 预训练任务.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task05/HappyLLm课程笔记章节03.1.1 - 预训练任务.md",
+      "sha256": "da61879de4ddbf8d011a24b40a282c3157cef4bfcf92bdb03d250503d899022f"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task05/Happyllm - Task01.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task05/Happyllm - Task01.md",
+      "sha256": "5e66b4564ed00f9f47489b00cb24c51481e4c88f7b4873ac5c34495693c43583"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task06/HappyLLm课程笔记章节03.1.0 - 预训练语言模型.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task06/HappyLLm课程笔记章节03.1.0 - 预训练语言模型.md",
+      "sha256": "eed7416308c280fef1341665892f6a0b48bf933f670ff1178a44ff06410c9a97"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task06/HappyLLm课程笔记章节03.1.1 - 预训练任务.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task06/HappyLLm课程笔记章节03.1.1 - 预训练任务.md",
+      "sha256": "da61879de4ddbf8d011a24b40a282c3157cef4bfcf92bdb03d250503d899022f"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task06/HappyLLm课程笔记章节03.2 - 第二条赛道Encoder-Decoder PLM.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task06/HappyLLm课程笔记章节03.2 - 第二条赛道Encoder-Decoder PLM.md",
+      "sha256": "12a052969a71e848ea5f79c0148893b2b2a27b4f2dffcb65323973c011fc8672"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task06/图示笔记.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task06/图示笔记.png",
+      "sha256": "651dcd17fb4d428e54ca5e7c9dfd7909a746de34e588767efbf65704e498d813"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task06/图示笔记2 EO.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task06/图示笔记2 EO.png",
+      "sha256": "d2ff916e67d2ea0734781f8465fb289ccb6af10ab41ae373d5b00212c7a35d33"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task07/HappyLLm课程笔记章节03.1.0 - 预训练语言模型.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task07/HappyLLm课程笔记章节03.1.0 - 预训练语言模型.md",
+      "sha256": "eed7416308c280fef1341665892f6a0b48bf933f670ff1178a44ff06410c9a97"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task07/HappyLLm课程笔记章节03.1.1 - 预训练任务.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task07/HappyLLm课程笔记章节03.1.1 - 预训练任务.md",
+      "sha256": "da61879de4ddbf8d011a24b40a282c3157cef4bfcf92bdb03d250503d899022f"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task07/HappyLLm课程笔记章节03.2 - 第二条赛道Encoder-Decoder PLM.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task07/HappyLLm课程笔记章节03.2 - 第二条赛道Encoder-Decoder PLM.md",
+      "sha256": "12a052969a71e848ea5f79c0148893b2b2a27b4f2dffcb65323973c011fc8672"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task07/图示笔记.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task07/图示笔记.png",
+      "sha256": "651dcd17fb4d428e54ca5e7c9dfd7909a746de34e588767efbf65704e498d813"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task07/图示笔记2 EO.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task07/图示笔记2 EO.png",
+      "sha256": "d2ff916e67d2ea0734781f8465fb289ccb6af10ab41ae373d5b00212c7a35d33"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task08/HappyLLm课程笔记章节03.3 - 第三条赛道Decoder-Only PLM.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task08/HappyLLm课程笔记章节03.3 - 第三条赛道Decoder-Only PLM.md",
+      "sha256": "614304d2824b8a4e10ac96f4ae37d8af6f410efee11777f48cc8049456795ac8"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Happy-LLm/Task08/架构解析.png",
+      "target_path": "学习资料/LLM-Notes-Chuan/Happy-LLm/Task08/架构解析.png",
+      "sha256": "1d77323adf46c0d3a1474240cc590e6837b2c9c75b5779d2d6801e41f8f69347"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/.DS_Store",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/.DS_Store",
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Jupyter Notebook与Lab 安装配置速查表.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Jupyter Notebook与Lab 安装配置速查表.md",
+      "sha256": "afc2c2cfec4952a3d8dd71dbbce8c33351ea6060742856a27a725aca5d3acf4b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Jupyter Notebook与Lab 常用操作速查表.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Jupyter Notebook与Lab 常用操作速查表.md",
+      "sha256": "7e08cd817ba9a3772417436b3bed1f59a2fe4f030b1e0f76e554e60209fd43ff"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Pytorch课程笔记章节01.1 - AI简史和MLDL介绍.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Pytorch课程笔记章节01.1 - AI简史和MLDL介绍.md",
+      "sha256": "ebaf304478b613bc82c41147083755edac7037df8f47d37a9d38857762a2aaca"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Pytorch课程笔记章节01.2 - 模型评价指标.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Pytorch课程笔记章节01.2 - 模型评价指标.md",
+      "sha256": "1b7ee856b8f19dafc02935bda09b8394bfdc7e506cd625938064324f2b553b23"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Pytorch课程笔记章节01.3 - Jupyter N与L.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Pytorch课程笔记章节01.3 - Jupyter N与L.md",
+      "sha256": "d35fdb95997f1445e2f2b259b9e99a54511e6182c8065de4af226e5310b7ddb4"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Pytorch课程笔记章节02.1 - PyTorch介绍.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Pytorch课程笔记章节02.1 - PyTorch介绍.md",
+      "sha256": "782c57151299c945119a9beef3272c9b61999b48ec4a0aa30f712df898d8c611"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Pytorch课程笔记章节03.1 - Tensor张量.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Pytorch课程笔记章节03.1 - Tensor张量.md",
+      "sha256": "cc589ee3dfa9d34bc4cc5554b0f00399cacfa4973c74427166e5db8f8b185701"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Pytorch课程笔记章节03.2 - Autograd梯度（这个章节需要实践）.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Pytorch课程笔记章节03.2 - Autograd梯度（这个章节需要实践）.md",
+      "sha256": "3be543a8a07dce04f1aaa196073e2543c25d44c1f933331005562ec2db23645b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Pytorch课程笔记章节03.3 - 并行计算.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Pytorch课程笔记章节03.3 - 并行计算.md",
+      "sha256": "b81d7b2714c45930fdb0e6e99f6866b05d4a1bd43e7fa806abc1bc110ca91d5d"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task01/Pytorch课程笔记章节03.4 - AI芯.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task01/Pytorch课程笔记章节03.4 - AI芯.md",
+      "sha256": "6948c8f32898c2fb237626913c8ed718a15714de1f1bd5c085f42abdcf1af172"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Jupyter Notebook与Lab 安装配置速查表.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Jupyter Notebook与Lab 安装配置速查表.md",
+      "sha256": "afc2c2cfec4952a3d8dd71dbbce8c33351ea6060742856a27a725aca5d3acf4b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Jupyter Notebook与Lab 常用操作速查表.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Jupyter Notebook与Lab 常用操作速查表.md",
+      "sha256": "7e08cd817ba9a3772417436b3bed1f59a2fe4f030b1e0f76e554e60209fd43ff"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Pytorch课程笔记章节01.1 - AI简史和MLDL介绍.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Pytorch课程笔记章节01.1 - AI简史和MLDL介绍.md",
+      "sha256": "ebaf304478b613bc82c41147083755edac7037df8f47d37a9d38857762a2aaca"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Pytorch课程笔记章节01.2 - 模型评价指标.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Pytorch课程笔记章节01.2 - 模型评价指标.md",
+      "sha256": "1b7ee856b8f19dafc02935bda09b8394bfdc7e506cd625938064324f2b553b23"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Pytorch课程笔记章节01.3 - Jupyter N与L.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Pytorch课程笔记章节01.3 - Jupyter N与L.md",
+      "sha256": "d35fdb95997f1445e2f2b259b9e99a54511e6182c8065de4af226e5310b7ddb4"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Pytorch课程笔记章节02.1 - PyTorch介绍.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Pytorch课程笔记章节02.1 - PyTorch介绍.md",
+      "sha256": "782c57151299c945119a9beef3272c9b61999b48ec4a0aa30f712df898d8c611"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Pytorch课程笔记章节03.1 - Tensor张量.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Pytorch课程笔记章节03.1 - Tensor张量.md",
+      "sha256": "cc589ee3dfa9d34bc4cc5554b0f00399cacfa4973c74427166e5db8f8b185701"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Pytorch课程笔记章节03.2 - Autograd梯度（这个章节需要实践）.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Pytorch课程笔记章节03.2 - Autograd梯度（这个章节需要实践）.md",
+      "sha256": "3be543a8a07dce04f1aaa196073e2543c25d44c1f933331005562ec2db23645b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Pytorch课程笔记章节03.3 - 并行计算.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Pytorch课程笔记章节03.3 - 并行计算.md",
+      "sha256": "b81d7b2714c45930fdb0e6e99f6866b05d4a1bd43e7fa806abc1bc110ca91d5d"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task02/Pytorch课程笔记章节03.4 - AI芯.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task02/Pytorch课程笔记章节03.4 - AI芯.md",
+      "sha256": "6948c8f32898c2fb237626913c8ed718a15714de1f1bd5c085f42abdcf1af172"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task03/Pytorch课程笔记章节03.1 - Tensor张量.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task03/Pytorch课程笔记章节03.1 - Tensor张量.md",
+      "sha256": "cc589ee3dfa9d34bc4cc5554b0f00399cacfa4973c74427166e5db8f8b185701"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task03/Pytorch课程笔记章节03.2 - Autograd梯度（这个章节需要实践）.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task03/Pytorch课程笔记章节03.2 - Autograd梯度（这个章节需要实践）.md",
+      "sha256": "3be543a8a07dce04f1aaa196073e2543c25d44c1f933331005562ec2db23645b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task03/Pytorch课程笔记章节03.3 - 并行计算.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task03/Pytorch课程笔记章节03.3 - 并行计算.md",
+      "sha256": "b81d7b2714c45930fdb0e6e99f6866b05d4a1bd43e7fa806abc1bc110ca91d5d"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task03/Pytorch课程笔记章节03.4 - AI芯.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task03/Pytorch课程笔记章节03.4 - AI芯.md",
+      "sha256": "6948c8f32898c2fb237626913c8ed718a15714de1f1bd5c085f42abdcf1af172"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task03/Pytorch课程笔记章节05.1 - PyTorch模型定义的方式.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task03/Pytorch课程笔记章节05.1 - PyTorch模型定义的方式.md",
+      "sha256": "43e79b1635384e2ba8cadce3bd9a7de46651d3735f1ca121cfda34d9ba70a0ee"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task03/Pytorch课程笔记章节05.2 - 利用模型块快速搭建复杂网络.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task03/Pytorch课程笔记章节05.2 - 利用模型块快速搭建复杂网络.md",
+      "sha256": "1f3d61c59fd6b0ab5579cf11536b232660cd8b8624aa8121db9a468e9c4d72c5"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task04/Pytorch课程笔记章节06.1 - 进阶训练技巧.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task04/Pytorch课程笔记章节06.1 - 进阶训练技巧.md",
+      "sha256": "adf2318986cdf040968e4a03d84e0e8390e38c37706145485b6ad2dd8f39347a"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task05/Pytorch课程笔记章节07.1 - 可视化.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task05/Pytorch课程笔记章节07.1 - 可视化.md",
+      "sha256": "3c5577fae981b782ba9c0be1eb2cfe61f92367ba93c99a19f3e9c578cb31d4a0"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "Pytorch/Task06/Pytorch课程笔记章节08.1 - 生态.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/Pytorch/Task06/Pytorch课程笔记章节08.1 - 生态.md",
+      "sha256": "aa357a70d1c99d5be59e73a60a3ae509942def8f4215ca5bdc8eb09e845e8a16"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "README.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/README.md",
+      "sha256": "bb1481d51a4adfc96fac536c0fa29b7fae57413bc3bda29784e91f375ef43a2b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题0 - 开始.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题0 - 开始.md",
+      "sha256": "134c07b3b0fd6d765287a04ba6790e01fa2449a4c2d82a102bc19d9d86dfef97"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题6.20 9 - 回文数.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题6.20 9 - 回文数.md",
+      "sha256": "e8708251fb6da3e3b95181f98302ca204bda07abfd9805115c142d6803196a50"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题6.26 19 - 删除链表中倒数第N个结点.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题6.26 19 - 删除链表中倒数第N个结点.md",
+      "sha256": "0c1dfbd761c19eebdb433ed9d2b28592b07be36e5e7ea226b3c7166d32e85ad2"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题6.26 2 - 两数相加.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题6.26 2 - 两数相加.md",
+      "sha256": "c0f4c514e0e0145e1de51f760c99cfb2c9a618daa45d6de7daacc06384675403"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题6.26 206 - 反转链表.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题6.26 206 - 反转链表.md",
+      "sha256": "2dbf451758ff204da5083c3d87c3c6b1c5659cf88658f6d08b2af0570a2ea77f"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题6.26 61 - 旋转链表.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题6.26 61 - 旋转链表.md",
+      "sha256": "f106154dfc191b3fa3efacbef8425dcb0a3f4314212de7ef42e49cafa81a20dd"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.10 26 - 删除有序数组中的重复项.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.10 26 - 删除有序数组中的重复项.md",
+      "sha256": "de0ceadab7770c5c90d93d0203393221367c404b84dee2836350e0bdf65d7618"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.11 108 - 有序数组转换成平衡二叉树.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.11 108 - 有序数组转换成平衡二叉树.md",
+      "sha256": "9c99bfea41f326afa3af5e2c5809a53b2f6f61ab7ba7f64e8bb88c47f32d1a06"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.14 160 - 杨辉三角二.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.14 160 - 杨辉三角二.md",
+      "sha256": "b03bc5462445cd28ca3c986a2b7d6a6765ae6bc761e596681cf56164319cab01"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.15 5 - 最长回文子串.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.15 5 - 最长回文子串.md",
+      "sha256": "7e59f8d989daea3bb2419ed4ba08c2032ebef3fad13265131cd0222e980fd3c0"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.16 15 - 三数之和.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.16 15 - 三数之和.md",
+      "sha256": "7416c533e716d66c0bee7dbb95fab6a3b4026e196ce97e9bd565286cc61233b1"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.17 3427 变长子数组求和.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.17 3427 变长子数组求和.md",
+      "sha256": "5a426a22286ab7474cd1e6aca03557d77e32f38cb609f3a46782f23440301ee6"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.2 328 - 奇偶链表.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.2 328 - 奇偶链表.md",
+      "sha256": "9f737e6f55afc10d355e52bc373c6b95108ff418d92b407791c7964263f8f518"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.22 1828 - 统计圆中点.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.22 1828 - 统计圆中点.md",
+      "sha256": "9146a8ee0f244e5eaa76591a7afafb4612de7b55d23178f1e582771e1b3ff1f8"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.4 114 - 二叉树展开为链表.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.4 114 - 二叉树展开为链表.md",
+      "sha256": "4079f4c61a564867f98a63d2888bfee57d1c7fe616de9d49a8cc49a5641bf05b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.4 335 - 设计推特.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.4 335 - 设计推特.md",
+      "sha256": "3f84e292d6384e2e3528a704efa193db7fbe0fb42536316cab231f18971dafa7"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣解题7.8 160 - 相交链表.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣解题7.8 160 - 相交链表.md",
+      "sha256": "f83529c58646b323ac458bc47811f993d46138452e0f1cb324d6195477eeba7b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "力扣刷题笔记/力扣题解 7.22 807 - 保持城市天际线.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/力扣刷题笔记/力扣题解 7.22 807 - 保持城市天际线.md",
+      "sha256": "471229b1390e6165704b4a74d5a438e4967f8899d153597183c6d7dc26c3a3b3"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点0-开始.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点0-开始.md",
+      "sha256": "691ffd31303399844a6d6a05867b6a237d66aa3f1cf6e153e07290f57cdbc357"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点1-剪枝.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点1-剪枝.md",
+      "sha256": "d6abe1f6d56dff10cd5ac678c8fea2d5e06c6159d25354b2444d47c44a8dff6e"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点2-知识蒸馏.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点2-知识蒸馏.md",
+      "sha256": "143997686e311edffd070de041587a31a7a05725a9960c99665450e9c6c14c12"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点3-量化.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点3-量化.md",
+      "sha256": "dae5972aef9ed937e9d7414c3f5e7030f5dfc3317375e0d6c43cc2d11b40bbbc"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点4-模型压缩.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点4-模型压缩.md",
+      "sha256": "b5f663a6152b15c38065f2effe4673c5b01f650e7061a15222263b9cdd8958cf"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点5-稀疏训练.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点5-稀疏训练.md",
+      "sha256": "82db72fe82d0a124e30a01b61b278f13858afe668ded57e7607f934d45610787"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点6-模型并行与分布式训练.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点6-模型并行与分布式训练.md",
+      "sha256": "a80151d3d1b12d5dcbcbdc7f9f83bdc60b432e7418d693a4f780234600d3619b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点7 - 对比学习与自监督学习概念.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点7 - 对比学习与自监督学习概念.md",
+      "sha256": "6a09682bf0a8325033e08760884f23445807acddc06a2da2967b5a021260bea3"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点8 - 对比学习.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点8 - 对比学习.md",
+      "sha256": "fe4b60bcb6fa29ab0cbc721a8295d2c3717dfcc9a01786693042aa2fa9f8bb03"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型知识点/大模型知识点9-模型解释性与可解释AI.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点9-模型解释性与可解释AI.md",
+      "sha256": "82cec70d61d9c007182c76fe2c19e9e6de46d38f87ff5a5ef0f06357831b1b8b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型自我架构建立/5.25 大模型学习.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.25 大模型学习.md",
+      "sha256": "5bc4475e8aea6b2efb161ac46f215c4dcec47bfb808cd912223fd0151507652a"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型自我架构建立/5.28-林超-语言表达领域草稿.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.28-林超-语言表达领域草稿.md",
+      "sha256": "03852df67e743659e5512b8b69ba73fa5440880a2ae8196140b252dd4ad0fefc"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 2.2.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 2.2.md",
+      "sha256": "705b4fdc156a06dae51689d8736ac3b112ae5b7e8eb639a51d9167c2782c508c"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 3.1 自注意力机制.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 3.1 自注意力机制.md",
+      "sha256": "504d29507dd197aaec7e175dab8fdd7354b59dd3350533caca60e959843b2ddc"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 3.2 与传统CNN的对比 图像分割和线性投影.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 3.2 与传统CNN的对比 图像分割和线性投影.md",
+      "sha256": "0c70e474153b1c99b9be54f8abc6bf4defd3a4f6547bca8432ca4aca76e4ede5"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 3.2 与传统CNN的对比.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 3.2 与传统CNN的对比.md",
+      "sha256": "6b05963a6045c1bd5fbcee97e8111cf1b68256e9e265afb78b8c2c4a9f5fc06b"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 3.2.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 3.2.md",
+      "sha256": "7d26fe4220d2195a4ac51a90a50765e321535b18d9f06481f08e3d3b97401ce0"
+    },
+    {
+      "source_repo": "LLM-Notes-Chuan",
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书.md",
+      "sha256": "7f4c470a5eede1ecb6080387cf5648ef926abe9cb477e1ee49327d84db0d04fc"
+    },
+    {
+      "source_repo": "test",
+      "source_path": "LG  1059.cpp",
+      "target_path": "编程体系/早期C与CPP练习/LG  1059.cpp",
+      "sha256": "d8cf42a7e0699016018a19a782baa92085734ea10606d51dcf7bfebc9a3c7210"
+    },
+    {
+      "source_repo": "test",
+      "source_path": "README.md",
+      "target_path": "编程体系/早期C与CPP练习/README.md",
+      "sha256": "b5ad82751060b4c166eb27fe12d1768faffa5721381139c205c05304a6f6f922"
+    },
+    {
+      "source_repo": "test",
+      "source_path": "THE NARCISSUS",
+      "target_path": "编程体系/早期C与CPP练习/THE NARCISSUS",
+      "sha256": "ebe8d0ee4dfcd1280b9485726c6b91f2702bd9cdcf6700b45dbb399e4d72238b"
+    },
+    {
+      "source_repo": "test",
+      "source_path": "我终于把hdoj 2023过了！AC纪念",
+      "target_path": "编程体系/早期C与CPP练习/我终于把hdoj 2023过了！AC纪念",
+      "sha256": "976122eaa9d9a1102e6e4acea81f98fbdf3634c7dcfee26a2d6598d0232694df"
+    },
+    {
+      "source_repo": "Chuan-LLM-Study-Community",
+      "source_path": ".gitignore",
+      "target_path": "学习资料/来源记录/Chuan-LLM-Study-Community/.gitignore",
+      "sha256": "8cdc8268bf9ea21d73d5df18cac69a3e5fb3c90aaac45a94c939f9a026a4e99a"
+    },
+    {
+      "source_repo": "Chuan-LLM-Study-Community",
+      "source_path": "README.md",
+      "target_path": "学习资料/来源记录/Chuan-LLM-Study-Community/README.md",
+      "sha256": "803ddcdeb05fc9d1ed74b6e07fdffa04bd45cb1cb227b36f91755e3b7846e637"
+    }
+  ],
+  "deduplicated_community_files": [
+    {
+      "source_path": "大模型知识点/大模型知识点0-开始.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点0-开始.md",
+      "sha256": "691ffd31303399844a6d6a05867b6a237d66aa3f1cf6e153e07290f57cdbc357"
+    },
+    {
+      "source_path": "大模型知识点/大模型知识点1-剪枝.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点1-剪枝.md",
+      "sha256": "d6abe1f6d56dff10cd5ac678c8fea2d5e06c6159d25354b2444d47c44a8dff6e"
+    },
+    {
+      "source_path": "大模型知识点/大模型知识点2-知识蒸馏.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点2-知识蒸馏.md",
+      "sha256": "143997686e311edffd070de041587a31a7a05725a9960c99665450e9c6c14c12"
+    },
+    {
+      "source_path": "大模型知识点/大模型知识点3-量化.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点3-量化.md",
+      "sha256": "dae5972aef9ed937e9d7414c3f5e7030f5dfc3317375e0d6c43cc2d11b40bbbc"
+    },
+    {
+      "source_path": "大模型知识点/大模型知识点4-模型压缩.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点4-模型压缩.md",
+      "sha256": "b5f663a6152b15c38065f2effe4673c5b01f650e7061a15222263b9cdd8958cf"
+    },
+    {
+      "source_path": "大模型知识点/大模型知识点5-稀疏训练.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点5-稀疏训练.md",
+      "sha256": "82db72fe82d0a124e30a01b61b278f13858afe668ded57e7607f934d45610787"
+    },
+    {
+      "source_path": "大模型知识点/大模型知识点6-模型并行与分布式训练.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点6-模型并行与分布式训练.md",
+      "sha256": "a80151d3d1b12d5dcbcbdc7f9f83bdc60b432e7418d693a4f780234600d3619b"
+    },
+    {
+      "source_path": "大模型知识点/大模型知识点7 - 对比学习与自监督学习概念.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点7 - 对比学习与自监督学习概念.md",
+      "sha256": "6a09682bf0a8325033e08760884f23445807acddc06a2da2967b5a021260bea3"
+    },
+    {
+      "source_path": "大模型知识点/大模型知识点8 - 对比学习.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点8 - 对比学习.md",
+      "sha256": "fe4b60bcb6fa29ab0cbc721a8295d2c3717dfcc9a01786693042aa2fa9f8bb03"
+    },
+    {
+      "source_path": "大模型知识点/大模型知识点9-模型解释性与可解释AI.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型知识点/大模型知识点9-模型解释性与可解释AI.md",
+      "sha256": "82cec70d61d9c007182c76fe2c19e9e6de46d38f87ff5a5ef0f06357831b1b8b"
+    },
+    {
+      "source_path": "大模型自我架构建立/5.25 大模型学习.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.25 大模型学习.md",
+      "sha256": "5bc4475e8aea6b2efb161ac46f215c4dcec47bfb808cd912223fd0151507652a"
+    },
+    {
+      "source_path": "大模型自我架构建立/5.28-林超-语言表达领域草稿.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.28-林超-语言表达领域草稿.md",
+      "sha256": "03852df67e743659e5512b8b69ba73fa5440880a2ae8196140b252dd4ad0fefc"
+    },
+    {
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 2.2.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 2.2.md",
+      "sha256": "705b4fdc156a06dae51689d8736ac3b112ae5b7e8eb639a51d9167c2782c508c"
+    },
+    {
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 3.1 自注意力机制.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 3.1 自注意力机制.md",
+      "sha256": "504d29507dd197aaec7e175dab8fdd7354b59dd3350533caca60e959843b2ddc"
+    },
+    {
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 3.2 与传统CNN的对比 图像分割和线性投影.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 3.2 与传统CNN的对比 图像分割和线性投影.md",
+      "sha256": "0c70e474153b1c99b9be54f8abc6bf4defd3a4f6547bca8432ca4aca76e4ede5"
+    },
+    {
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 3.2 与传统CNN的对比.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 3.2 与传统CNN的对比.md",
+      "sha256": "6b05963a6045c1bd5fbcee97e8111cf1b68256e9e265afb78b8c2c4a9f5fc06b"
+    },
+    {
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书 3.2.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书 3.2.md",
+      "sha256": "7d26fe4220d2195a4ac51a90a50765e321535b18d9f06481f08e3d3b97401ce0"
+    },
+    {
+      "source_path": "大模型自我架构建立/5.31 大模型的自我架构书.md",
+      "target_path": "学习资料/LLM-Notes-Chuan/大模型自我架构建立/5.31 大模型的自我架构书.md",
+      "sha256": "7f4c470a5eede1ecb6080387cf5648ef926abe9cb477e1ee49327d84db0d04fc"
+    }
+  ],
+  "history": "Source repositories and their existing branches are preserved; full Git mirrors are backed up locally. This manifest covers file contents, not Issues or Wiki."
+}
